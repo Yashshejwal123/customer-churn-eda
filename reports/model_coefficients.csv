@@ -1,0 +1,9 @@
+feature,coefficient
+cat__contract_Month-to-month,0.3386416104854198
+num__monthly_charges,0.20131572345773974
+cat__internet_service_Fiber optic,0.144350294136468
+cat__internet_service_No,-0.6227691228732581
+cat__internet_service_DSL,-0.7066274850451886
+num__tenure_months,-0.7236377877706849
+cat__contract_One year,-0.7338503312667392
+cat__contract_Two year,-0.7898375930006593
